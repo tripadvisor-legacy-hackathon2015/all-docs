@@ -1,4 +1,5 @@
-## API keys for deCODE hackathon (these will be revoked following the )
+##### API keys for deCODE hackathon (these will be revoked following the weekend)
+
 Dev key (50K calls/day):
 A9778200-77E7-4FD8-86B1-240E13A873F4
 
