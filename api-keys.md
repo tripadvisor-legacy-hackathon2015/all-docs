@@ -7,6 +7,8 @@ will explain rules and a bit of background at deCODE 2015.
 * Please be careful not to accidentally call the api hundreds of times from 
 a loop. Once the daily call limit on a key is reached, we cannot reset it.
 
+* We cannot retain any API data; we will destroy our indices / cached data at the end of the workshop. However, we'll take plenty of screenshots of what we build!
+
 #### Keys
 
 Dev key (50K calls/day):
