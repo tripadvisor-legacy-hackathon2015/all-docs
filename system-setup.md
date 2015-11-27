@@ -24,9 +24,9 @@ ufw enable
 ## From TripAdvisor Ottawa HQ
 ufw allow from 66.46.169.0/24 to any port 9200
 
-## From university
-## what is UCarleton's IP block?
-ufw allow from XXXXXXXXX to any port 9200
+## From UCarleton
+ufw allow from 134.117.249.0/24 to any port 9200
+
 ```
 
 
